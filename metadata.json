@@ -1,0 +1,5 @@
+{
+  "name": "Snubbing Operation Visualizer",
+  "description": "Interactive visualization of pressurized operation dynamic sealing workflows (Conditions 1 & 3) with decision logic simulation.",
+  "requestFramePermissions": []
+}
